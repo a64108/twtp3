@@ -1,1 +1,14 @@
-ficheiro temporario
+Objetivos do Trabalho:
+
+Aplicação Web que implemente o serviço pelo protocolo FTP SEM USAR serviço FTP (servidor)
+
+1) Upload de ficheiros
+    Feito com verficação de ficheiros duplicados:
+    - Adicionar: Overwrite? - EXTRA
+
+
+2) Lista no browser dos ficheiros enviados para o servidor
+
+
+
+3) Download dos ficheiros enviados
